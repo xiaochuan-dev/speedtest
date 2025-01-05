@@ -1,0 +1,16 @@
+{
+  "name": "@xiaochuan-dev/speedtest",
+  "private": true,
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "prettier": "^3.4.2"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "fs-extra": "^11.2.0",
+    "p-limit": "^6.2.0"
+  }
+}
